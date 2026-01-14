@@ -1,77 +1,51 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/itsshash/Groudon-assets/groudon-frame.png" alt="Groudon Frame" width="350"/>
-</p>
-
-<h1 align="center">Hi, I'm Shahwaiz 🤖</h1>
-<p align="center">
-  Full‑Stack AI Developer | Generative AI Enthusiast | Reluctant Automation Connoisseur
+  <h1 align="center">Hi, I'm Shahwaiz 🤖</h1>
+  <p align="center">
+    <strong>Full‑Stack AI Developer | Generative AI Enthusiast | Reluctant Automation Connoisseur</strong>
+  </p>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Stats & Activity
 
 <p align="center">
-
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shahwaizf0&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahwaizf0&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shahwaizf0&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahwaizf0&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
-<!-- Contribution Streak Card -->
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahwaizf0&theme=tokyonight" alt="GitHub Streak Stats" width="97%"/>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF3C38?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+### ⚡ Recent Focus
+
+* **AI Chatbots** — Conversational agents with memory and context.
+* **Voice Agents** — Real-time TTS & voice-controlled AI flows.
+* **Agentic Workflows** — Autonomous task chains and n8n automation.
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" alt="Groudon" width="220"/>
   <br />
-  <img src="https://streak-stats.demolab.com/?user=shahwaizf0&theme=tokyonight" alt="GitHub Streak Stats" width="75%"/>
-</p>
-
----
-
-## 🔥 Aesthetic Groudon Vibes
-
-<p align="center">
-  <img src="https://img.pokemondb.net/artwork/large/groudon.jpg" alt="Groudon" width="320"/>
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" alt="Groudon Artwork" width="260"/>
-</p>
-
----
-
-### 🛠 Tech & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI%20Agents-FF4500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-FF3C38?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Drizzle-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgres&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alembic-9B2C2C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hardhat-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LiveKit-4C1D95?style=for-the-badge"/>
-</p>
-
----
-
-## ⚡ Recent Projects
-
-- **AI Chatbots** — Conversational agents with memory and context.
-- **Voice Agents** — Text‑to‑speech & voice‑controlled AI flows.
-- **Agentic Workflows** — Autonomous AI task chains.
-- **Automations** — n8n & Python scripts for productivity boosters.
-
-<p align="center">
   <em>“Programming is like Pokémon: evolve your skills, train your tools, and always aim for the Legendary ones.”</em>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/itsshash/Groudon-assets/groudon-footer.png" alt="Groudon Footer" width="350"/>
 </p>
