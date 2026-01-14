@@ -1,18 +1,51 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsshash/Groudon-assets/main/groudon-frame.png" alt="Groudon Frame" width="400"/>
+  <img src="https://cdn.jsdelivr.net/gh/itsshash/Groudon-assets/groudon-frame.png" alt="Groudon Frame" width="350"/>
 </p>
 
 <h1 align="center">Hi, I'm Shahwaiz 🤖</h1>
-<p align="center">Full-Stack AI Developer | Generative AI Enthusiast | Reluctant Automation Connoisseur</p>
+<p align="center">
+  Full‑Stack AI Developer | Generative AI Enthusiast | Reluctant Automation Connoisseur
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shahwaizf0&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahwaizf0&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+  
+</p>
+
+<!-- Contribution Streak Card -->
+<p align="center">
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=shahwaizf0&theme=tokyonight" alt="GitHub Streak Stats" width="75%"/>
+</p>
+
+---
+
+## 🔥 Aesthetic Groudon Vibes
+
+<p align="center">
+  <img src="https://img.pokemondb.net/artwork/large/groudon.jpg" alt="Groudon" width="320"/>
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" alt="Groudon Artwork" width="260"/>
+</p>
 
 ---
 
 ### 🛠 Tech & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI Agents-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-FF3C38?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
@@ -28,26 +61,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahwaizf0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahwaizf0&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## ⚡ Recent Projects
 
----
-
-### ⚡ Recent Projects
-- **AI Chatbots** – Conversational agents with memory and context.
-- **Voice Agents** – Text-to-speech & voice-controlled AI workflows.
-- **Agentic Workflows** – Autonomous AI task pipelines.
-- **Automations** – n8n & Python scripts for productivity boosters.
-
----
+- **AI Chatbots** — Conversational agents with memory and context.
+- **Voice Agents** — Text‑to‑speech & voice‑controlled AI flows.
+- **Agentic Workflows** — Autonomous AI task chains.
+- **Automations** — n8n & Python scripts for productivity boosters.
 
 <p align="center">
   <em>“Programming is like Pokémon: evolve your skills, train your tools, and always aim for the Legendary ones.”</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsshash/Groudon-assets/main/groudon-footer.png" alt="Groudon Footer" width="400"/>
+  <img src="https://cdn.jsdelivr.net/gh/itsshash/Groudon-assets/groudon-footer.png" alt="Groudon Footer" width="350"/>
 </p>
