@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/groudon-frame.png" alt="Groudon Frame" width="400"/>
+  <img src="https://raw.githubusercontent.com/itsshash/Groudon-assets/main/groudon-frame.png" alt="Groudon Frame" width="400"/>
 </p>
 
 <h1 align="center">Hi, I'm Shahwaiz 🤖</h1>
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahwaizf0&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahwaizf0&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,9 +45,9 @@
 ---
 
 <p align="center">
-  <em>“Programming is like Pokémon: evolve your skills, train your tools, and always abuse Pikachu to fight your battles for you.”</em>
+  <em>“Programming is like Pokémon: evolve your skills, train your tools, and always aim for the Legendary ones.”</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/groudon-frame-bottom.png" alt="Groudon Footer" width="400"/>
+  <img src="https://raw.githubusercontent.com/itsshash/Groudon-assets/main/groudon-footer.png" alt="Groudon Footer" width="400"/>
 </p>
