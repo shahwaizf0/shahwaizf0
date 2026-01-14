@@ -47,5 +47,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" alt="Groudon" width="220"/>
   <br />
-  <em>“Programming is like Pokémon: evolve your skills, train your tools, and always aim for the Legendary ones.”</em>
+  <em>“Programming is like Pokémon: evolve your skills, train your tools, and always abuse Pikachu to fight your battles for you.”</em>
 </p>
